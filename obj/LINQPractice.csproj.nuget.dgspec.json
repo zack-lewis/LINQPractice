@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/LINQPractice.csproj": {}
+    "C:\\Users\\Zack\\Documents\\VSCode\\LINQPractice\\LINQPractice.csproj": {}
   },
   "projects": {
-    "/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/LINQPractice.csproj": {
+    "C:\\Users\\Zack\\Documents\\VSCode\\LINQPractice\\LINQPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/LINQPractice.csproj",
+        "projectUniqueName": "C:\\Users\\Zack\\Documents\\VSCode\\LINQPractice\\LINQPractice.csproj",
         "projectName": "LINQPractice",
-        "projectPath": "/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/LINQPractice.csproj",
-        "packagesPath": "/Users/krcd58/.nuget/packages/",
-        "outputPath": "/Users/krcd58/Documents/IT-2040/spring2022/LINQPractice/obj/",
+        "projectPath": "C:\\Users\\Zack\\Documents\\VSCode\\LINQPractice\\LINQPractice.csproj",
+        "packagesPath": "C:\\Users\\Zack\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zack\\Documents\\VSCode\\LINQPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/krcd58/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Zack\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
